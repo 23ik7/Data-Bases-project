@@ -36,7 +36,7 @@ Data-Bases-project/
 
 ## ✍️ Author
 Igor Kumichev 
-LinkedIn Profile: (https://www.linkedin.com/in/igorkumichev/)  
+[LinkedIn Profile](https://www.linkedin.com/in/igorkumichev/)  
 [GitHub Profile](https://github.com/23ik7)
 
 ---
